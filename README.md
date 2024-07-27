@@ -34,16 +34,16 @@ STEP 2
 The terraform configuration provisions the following listed below:
 
 EKS cluster on AWS
+![Screenshot 2024-07-27 131321](https://github.com/user-attachments/assets/01fc4765-81d9-435c-8402-6286b943d5c3)
 
 Update Kube config on the machine you’re running terraform from.
-
-INSTALL ARGOCD
-
 ![Screenshot 2024-07-27 133603](https://github.com/user-attachments/assets/a89a79c8-01c9-47eb-b1db-1ae05ff6d88c)
 
-![Screenshot 2024-07-27 131321](https://github.com/user-attachments/assets/01fc4765-81d9-435c-8402-6286b943d5c3)
+INSTALL ARGOCD
 ![Screenshot 2024-07-27 133420](https://github.com/user-attachments/assets/c6f724b3-e000-43bb-b9ce-1809db2492d7)
+
 ![Screenshot 2024-07-27 133433](https://github.com/user-attachments/assets/1b36de78-08d3-4c93-9958-f030ccc5d262)
+
 
 STEP 3
 
