@@ -57,14 +57,18 @@ After updating your cluster to receive manifests configuration, apply the files 
 ![Screenshot 2024-07-27 133934](https://github.com/user-attachments/assets/70177766-3c75-4d46-9be6-7f0dab1b5b19)
 
 STEP 5
+
 Bootstrapping the Manifest with ArgoCD
+
 Once your manifest files have been applied, the next step is to bootstrap them to ArgoCD to enhance continuous delivery. Follow these steps:
 
 Check that argocd is installed and the pods are running.
+
 ![Screenshot 2024-07-27 134132](https://github.com/user-attachments/assets/95d9d29e-13e9-418b-929a-18b024e24d76)
 ![Screenshot 2024-07-27 145457](https://github.com/user-attachments/assets/4352a22e-bcf3-4fab-8e83-d714e7fe6652)
 
 when the pods are ready, map your port to access ArgoCD in the browser
+
 ![Screenshot 2024-07-27 143917](https://github.com/user-attachments/assets/6a5c0e6b-44b3-40cb-a4bd-9580b248671f)
 ![Screenshot 2024-07-27 144054](https://github.com/user-attachments/assets/9b2d1508-8b40-4a8f-98b1-cb4acbe33884)
 
