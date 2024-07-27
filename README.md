@@ -20,9 +20,13 @@ AWS Account and Access Keys Configured
  CD into the terrafrom folder 
  
  Initialize, plan, and apply the Terraform files to provision your cluster on AWS
+ 
 terraform init
+
 terraform plan
+
 terraform apply
+
  ![Screenshot 2024-07-27 131102](https://github.com/user-attachments/assets/5cc43694-b066-458a-97e0-5e4258e0202a)
 ![Screenshot 2024-07-27 131207](https://github.com/user-attachments/assets/ad7c7d71-86f4-4325-9c81-8a1532501d5d)
 
