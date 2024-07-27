@@ -48,6 +48,7 @@ INSTALL ARGOCD
 STEP 3
 
 INSTALL KUBECTL 
+
 ![Screenshot 2024-07-27 133844](https://github.com/user-attachments/assets/e4583f61-f608-4c7e-b36a-da0521e19031)
 
 
