@@ -71,9 +71,10 @@ When the pods are ready, map your port to access ArgoCD in the browser
 
 ![Screenshot 2024-07-27 143917](https://github.com/user-attachments/assets/6a5c0e6b-44b3-40cb-a4bd-9580b248671f)
 
-CONFIRM ON THE BROWSER USING Thttp://localhost:8080
+CONFIRM ON THE BROWSER USING http://localhost:8080
 
-![Screenshot 2024-07-27 144054](https://github.com/user-attachments/assets/9b2d1508-8b40-4a8f-98b1-cb4acbe33884)
+![Screenshot 2024-07-27 173933](https://github.com/user-attachments/assets/c9295781-9088-4480-8a88-1ff15a1bb243)
+
 
 Upon access, you will be required to log in with a username and a password. The username is admin, and the password can be retrieved using the following command:
 ![Screenshot 2024-07-27 181322](https://github.com/user-attachments/assets/4d7f6215-82a0-400d-801e-c244948deadf)
