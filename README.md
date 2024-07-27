@@ -85,6 +85,7 @@ Upon access, you will be required to log in with a username and a password. The 
 STEP 6
 Adding Your Repository and Cluster to ArgoCD
 Once logged in successfully, connect the GitHub repo that contains the manifest with the following command:
+
 argocd repo add https://github.com/username/repourl --username <your-github-username> --password <your-personal-access-token>
 
 ![Screenshot 2024-07-27 172244](https://github.com/user-attachments/assets/42bc6cb6-7573-4ae3-b9a0-40a38b3eb152)
