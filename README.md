@@ -71,6 +71,7 @@ When the pods are ready, map your port to access ArgoCD in the browser
 
 ![Screenshot 2024-07-27 143917](https://github.com/user-attachments/assets/6a5c0e6b-44b3-40cb-a4bd-9580b248671f)
 
+
 CONFIRM ON THE BROWSER USING http://localhost:8080
 
 ![Screenshot 2024-07-27 173933](https://github.com/user-attachments/assets/c9295781-9088-4480-8a88-1ff15a1bb243)
@@ -84,6 +85,7 @@ Upon access, you will be required to log in with a username and a password. The 
 
 STEP 6
 Adding Your Repository and Cluster to ArgoCD
+
 Once logged in successfully, connect the GitHub repo that contains the manifest with the following command:
 
 argocd repo add https://github.com/username/repourl --username <your-github-username> --password <your-personal-access-token>
@@ -95,7 +97,9 @@ Once your repo has been connected successfully, add your cluster to the ArgoCD s
 
 STEP 7
 Creating and Syncing Your Application
+
 Once the cluster has been added successfully, proceed to create your app and configure your ArgoCD using:
+
 argocd app create appname \
    --repo https://github.com/username/repourl \
    --path manifests/ \
@@ -114,6 +118,7 @@ argocd app sync <app-NAME>
 
 STEP 9
 When you see this response, you can go on to Login into your ArgoCD via browser to check it out.
+
 ![Screenshot 2024-07-27 173807](https://github.com/user-attachments/assets/490e67ac-53d0-4261-9ece-e2e5f94cc037)
 
 
