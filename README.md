@@ -1,10 +1,15 @@
 # BootStrap K8s with ArgoCD
 Prerequisites
 To follow along, you’ll need the following installed/configured on the environment or machine you’ll work on.
+
 Git Installed
+
 Terraform Installed
+
 AWS CLI installed and configured
+
 AWS Account and Access Keys Configured
+
 ![Screenshot 2024-07-27 130719](https://github.com/user-attachments/assets/fc399c9a-6f5e-44d7-b61d-cca6b1bd2a76)
 ![Screenshot 2024-07-27 130840](https://github.com/user-attachments/assets/6fda1916-d206-4cc7-a9cc-d7785cb3c6db)
 ![Screenshot 2024-07-27 130914](https://github.com/user-attachments/assets/63ed9ee9-bc8b-4b2b-acd3-19ce70217d21)
