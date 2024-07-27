@@ -79,7 +79,8 @@ CONFIRM ON THE BROWSER USING http://localhost:8080
 Upon access, you will be required to log in with a username and a password. The username is admin, and the password can be retrieved using the following command:
 ![Screenshot 2024-07-27 181322](https://github.com/user-attachments/assets/4d7f6215-82a0-400d-801e-c244948deadf)
 
-![Screenshot 2024-07-27 181456](https://github.com/user-attachments/assets/9b8178da-eb3d-4b5f-86f6-c332b3c2a80d)
+![Screenshot 2024-07-27 181456](https://github.com/user-attachments/assets/e7e74006-b6a5-43d5-b9bb-d4bade646513)
+
 
 STEP 6
 Adding Your Repository and Cluster to ArgoCD
